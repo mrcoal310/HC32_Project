@@ -1,2 +1,2 @@
 # HC32_Project
-Try to develop HC32 microcomputer.
+对HC32开发的一些例程以及开发工具
